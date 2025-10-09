@@ -12,7 +12,7 @@ play/pause tracks, view progress bars, and switch between songs — all in a mod
 # Tech Stack
 HTML5 – Structure of the web pages
 CSS3 – Styling and responsive design
-JavaScript (Vanilla JS) – Logic for audio control and interactivity
+JavaScript  – Logic for audio control and interactivity
 
 # How It Works-
 The HTML file defines the layout (music player, song list, and controls).
