@@ -21,7 +21,7 @@ JavaScript manages the functionality:
 Loads audio files dynamically.
 Updates the progress bar and song title while playing.
 Handles next/previous song switching.
-
+# Home Screen-
 
 <img width="1365" height="751" alt="Screenshot 2025-10-09 204727" src="https://github.com/user-attachments/assets/98d6fcbc-ecd1-4761-8273-84292ace0a52" />
 
