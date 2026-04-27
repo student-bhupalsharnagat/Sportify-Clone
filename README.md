@@ -23,8 +23,18 @@ Updates the progress bar and song title while playing.
 Handles next/previous song switching.
 # Home Screen-
 
-<img width="1365" height="751" alt="Screenshot 2025-10-09 204727" src="https://github.com/user-attachments/assets/98d6fcbc-ecd1-4761-8273-84292ace0a52" />
 
+
+
+
+<img width="1365" height="767" alt="Screenshot 2026-04-28 005040" src="https://github.com/user-attachments/assets/e5d803e9-9e97-4260-8f3b-e346094a32e0" />
+
+
+Responsive Design
+
+
+
+<img width="375" height="764" alt="Screenshot 2026-04-28 005217" src="https://github.com/user-attachments/assets/40c68de6-390f-4efa-9053-1d3139db5671" />
 
 
 
