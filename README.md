@@ -1,4 +1,4 @@
-# Sportify Clone
+# MusicFlow
 The Spotify Clone is a responsive music streaming web app built using HTML, CSS, and JavaScript.
 It replicates the core user interface and basic functionalities of Spotify, 
 play/pause tracks, view progress bars, and switch between songs — all in a modern and interactive design.
