@@ -247,8 +247,7 @@ height: 50px;
     display: flex;
   }
  .songItem img {
-    /* width: 80px;
-    height: 80px; */
+    
 
     max-width: 40px;
     height: 40px;
