@@ -110,7 +110,7 @@ nav ul li {
   margin: 0 23px;
 }
 .timestamp i {
-  font-size: 23px;
+  font-size: 27px;
   cursor: pointer;
 }
 
@@ -154,7 +154,9 @@ nav ul li {
 @media (max-width: 768px) {
 
 
-
+.songList h1{ 
+  font-size: 18px;
+}
 
 
 
@@ -268,7 +270,7 @@ height: 50px;
   }
 
   .timestamp i {
-    font-size: 25px;
+    font-size: 30px;
     margin-top: 40px;
   }
 
@@ -279,4 +281,56 @@ height: 50px;
   .icons i {
     font-size: 36px;
   }
+}
+
+
+
+@media (max-height:740px) {
+
+
+ .songItem img {
+  position: relative;
+  bottom: 10px;
+ }
+
+
+
+  .timestamp {
+    position: relative;
+    bottom: 40px;
+  }
+
+ .container{
+        height: 40px;
+    }  
+
+
+     .songItem{
+        height: 45px;
+     }
+  
+
+.bottom{
+
+ height: 100px;
+ 
+}
+.icons i{
+position: relative;
+bottom: 10px;
+font-size: 30px;
+} 
+
+.songInfo{
+
+position: relative;
+bottom: 50px;
+left: 120px;
+}
+
+
+#myprogressBar::-webkit-slider-thumb{
+  width: 25px;
+  height: 25px;
+}
 }
