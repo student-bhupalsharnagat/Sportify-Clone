@@ -287,6 +287,8 @@ height: 50px;
 .icons i{
 position: relative;
 bottom: 10px;
+
+right: 50px;
 font-size: 30px;
 } 
 
@@ -294,7 +296,7 @@ font-size: 30px;
 
 position: relative;
 bottom: 50px;
-left: 120px;
+left: 100px;
 }
 
 
