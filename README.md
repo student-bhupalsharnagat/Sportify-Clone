@@ -21,6 +21,15 @@ JavaScript manages the functionality:
 Loads audio files dynamically.
 Updates the progress bar and song title while playing.
 Handles next/previous song switching.
+
+
+
+# Live Demo -
+https://musicxflow.netlify.app/
+
+
+
+
 # Home Screen-
 
 
